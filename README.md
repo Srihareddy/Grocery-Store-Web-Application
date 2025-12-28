@@ -69,5 +69,5 @@ Update database credentials if required (username, password, database name)
 http://localhost/grocery-store/home.php
 
 
----
+
 
